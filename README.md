@@ -98,13 +98,13 @@ This ensures strong governance and makes the system suitable for **high-stakes e
 ## 📊 Sample Outputs
 
 ### Ranking & Strategy Prioritization
-![Ranking](screenshots/ranking.png)
+![Ranking](ranking.png)
 
 ### Operational Bottleneck Identification
-![Bottleneck](screenshots/bottleneck.png)
+![Bottleneck](bottleneck.png)
 
 ### AI Strategic Interpretation
-![AI Output](screenshots/ai_output.png)
+![AI Output](ai_output.png)
 
 ---
 
